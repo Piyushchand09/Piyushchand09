@@ -1,7 +1,7 @@
-<h1 align="center">ðŸ‘‹ Hi, I'm Piyush Chand</h1>
+<h1 align="center">Hi, I'm Piyush Chand</h1>
 
 <p align="center">
-  <b>M.Tech CSE Student Â· Backend Developer Â· ML & Cybersecurity Researcher</b><br/>
+  <b>M.Tech CSE Student · Backend Developer · ML & Cybersecurity Researcher</b><br/>
   Graphic Era Hill University, Dehradun, India
 </p>
 
@@ -19,18 +19,18 @@
 
 ---
 
-## ðŸ™‹â€â™‚ï¸ About Me
+## About Me
 
-- ðŸŽ“ Pursuing **M.Tech in Computer Science & Engineering** at Graphic Era Hill University, Dehradun  
-- ðŸ’» Experienced in **Java, Spring Boot, Python, SQL & Machine Learning**
-- ðŸ”¬ Actively researching **Federated Learning-Based Intrusion Detection for Software-Defined Networks**
-- ðŸ“¢ Presented research poster at **International SPARC Workshop, IIT Roorkee (Feb 2026)**
-- ðŸŒ± Currently exploring **REST API development, SDN security & Federated Learning**
-- ðŸ“« Reach me at: **Piyushchand58@gmail.com**
+- Pursuing **M.Tech in Computer Science & Engineering** at Graphic Era Hill University, Dehradun
+- Experienced in **Java, Spring Boot, Python, SQL & Machine Learning**
+- Actively researching **Federated Learning-Based Intrusion Detection for Software-Defined Networks**
+- Presented research poster at **International SPARC Workshop, IIT Roorkee (Feb 2026)**
+- Currently exploring **REST API development, SDN security & Federated Learning**
+- Reach me at: **Piyushchand58@gmail.com**
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -62,77 +62,77 @@
 
 ---
 
-## ðŸš€ Featured Projects
+## Featured Projects
 
-### ðŸ› Bug Tracking System *(In Progress)*
-> Spring Boot Â· MySQL Â· JWT Authentication Â· REST APIs
+### Bug Tracking System (In Progress)
+> Spring Boot · MySQL · JWT Authentication · REST APIs
 
 A full-featured web-based bug tracking app with role-based access control for **Admin, Developer & Tester**. Supports user registration/login, bug creation, bug assignment, status tracking, and issue management.
 
 ---
 
-### ðŸ›¡ï¸ Phishing Website Detection using Machine Learning
-> Python Â· Scikit-Learn Â· Deep Neural Networks
+### Phishing Website Detection using Machine Learning
+> Python · Scikit-Learn · Deep Neural Networks
 
 Built classification models and deep neural networks to detect phishing websites. Includes data preprocessing, feature engineering, and model evaluation across multiple algorithms.
 
 ---
 
-### ðŸ¦ Bank Management System
-> Java Â· OOP Â· MySQL
+### Bank Management System
+> Java · OOP · MySQL
 
 A Java-based banking application to manage user accounts, deposits, withdrawals, and financial transactions using core OOP principles.
 
 ---
 
-### ðŸŽ“ Student Management System
-> Java Â· Data Structures
+### Student Management System
+> Java · Data Structures
 
 Record management system for storing and retrieving student information, built using core Java.
 
 ---
 
-### ðŸ  House Sales Price Prediction
-> Python Â· Regression Algorithms
+### House Sales Price Prediction
+> Python · Regression Algorithms
 
 Applied multiple regression techniques on real-world datasets to identify trends and predict house prices accurately.
 
 ---
 
-### ðŸ¨ Hotel Operations SQL Analysis *(DataCamp)*
-> SQL Â· Data Analysis
+### Hotel Operations SQL Analysis (DataCamp)
+> SQL · Data Analysis
 
-Analyzed hotel booking and revenue data using advanced SQL queries â€” joins, aggregation, filtering â€” to extract meaningful business insights.
+Analyzed hotel booking and revenue data using advanced SQL queries — joins, aggregation, filtering — to extract meaningful business insights.
 
 ---
 
-## ðŸ”¬ Ongoing Research
+## Ongoing Research
 
 **Federated Learning-Based Intrusion Detection for Software-Defined Networks: Convergence Stability and Adaptive Class-Imbalance Handling under Non-IID Traffic**
 
 - Developing a **privacy-preserving federated IDS** for SDN environments
-- Solving the **Non-IID data distribution** problem to improve convergence stability  
+- Solving the **Non-IID data distribution** problem to improve convergence stability
 - Designing **adaptive class-imbalance handling** mechanisms for rare attack type detection
 
-> ðŸ“¢ Presented related work at **International SPARC Workshop, IIT Roorkee, Feb 2026**
+> Presented related work at **International SPARC Workshop, IIT Roorkee, Feb 2026**
 
 ---
 
-## ðŸ… Certifications
+## Certifications
 
 | Certification | Issuer | Year |
 |---|---|---|
-| ðŸŽ“ Poster â€“ SPARC International Workshop | IIT Roorkee | Feb 2026 |
-| ðŸ“Š Data Scientist Associate | DataCamp | May 2025 |
-| ðŸ—„ï¸ SQL Associate | DataCamp | May 2025 |
-| ðŸ¤– Generative AI with LLM | Coursera | Jan 2025 |
-| ðŸŒ AI For Everyone | Coursera | Jan 2025 |
-| ðŸ” Cybersecurity Participation | Microsoft & ICT Academy | Mar 2023 |
-| â˜• Java Developer Intern | Ensino R&D, Dehradun | 2022 |
+| Poster - SPARC International Workshop | IIT Roorkee | Feb 2026 |
+| Data Scientist Associate | DataCamp | May 2025 |
+| SQL Associate | DataCamp | May 2025 |
+| Generative AI with LLM | Coursera | Jan 2025 |
+| AI For Everyone | Coursera | Jan 2025 |
+| Cybersecurity Participation | Microsoft & ICT Academy | Mar 2023 |
+| Java Developer Intern | Ensino R&D, Dehradun | 2022 |
 
 ---
 
-## ðŸ“ˆ GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Piyushchand09&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -145,7 +145,7 @@ Analyzed hotel booking and revenue data using advanced SQL queries â€” join
 
 ---
 
-## ðŸŒ Connect With Me
+## Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/piyushchand09">
