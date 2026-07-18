@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Piyush Chand</h1>
 
 <p align="center">
-  <b>M.Tech CSE Student · Backend Developer · ML & Cybersecurity Researcher</b><br/>
+  <b>M.Tech CSE Student · Java, Spring Boot & Python Developer · Researching Federated Learning-based IDS for SDN</b><br/>
   Graphic Era Hill University, Dehradun, India
 </p>
 
@@ -133,17 +133,8 @@ Analyzed hotel booking and revenue data using advanced SQL queries — joins, ag
 
 ---
 
-## 🔬 Ongoing Research
-
-**Federated Learning-Based Intrusion Detection for Software-Defined Networks: Convergence Stability and Adaptive Class-Imbalance Handling under Non-IID Traffic**
-
-- Developing a **privacy-preserving federated IDS** for SDN environments
-- Solving the **Non-IID data distribution** problem to improve convergence stability
-- Designing **adaptive class-imbalance handling** mechanisms for rare attack type detection
-
-> 📢 Presented related work at **International SPARC Workshop, IIT Roorkee, Feb 2026**
-
 **Publications**
+- 📄 *Federated Learning-Based Intrusion Detection for Software-Defined Networks: Convergence Stability and Adaptive Class-Imbalance Handling under Non-IID Traffic* — Accepted at **NetCrypt 2026** (Awaiting Publication)
 - 📄 *AI-Powered Intrusion Detection System in Software Defined Network: A Review* — Accepted at **AUTOCOM 2026** (Awaiting Publication)
 
 ---
@@ -162,18 +153,31 @@ Analyzed hotel booking and revenue data using advanced SQL queries — joins, ag
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Education
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyushchand09&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushchand09&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Piyushchand09&theme=tokyonight&hide_border=true"/>
-</p>
+| Degree | Institution | Duration | Score |
+|---|---|---|---|
+| M.Tech in Computer Science and Engineering | Graphic Era Hill University, Dehradun | 2024 – Present | — |
+| B.Tech in Computer Science and Engineering | Dev Bhoomi Institute of Technology, Dehradun | 2019 – 2023 | CGPA: 7.15 |
+| Class 12th (PCM) | Govt. Inter College, Baluwakote, Pithoragarh | 2019 | 63.2% |
+| Class 10th | Vivekananda Vidya Mandir H.S. School, Baluwakote, Pithoragarh | 2017 | 78.2% |
 
 ---
+
+## 💼 Work Experience
+
+**Java (Core & Advanced) Developer Intern** — Ensino Research and Development Pvt. Ltd., Dehradun *(Jul 2022 – Aug 2022)*
+- Implemented Java programs using core OOP principles including inheritance, polymorphism, and encapsulation
+- Developed functional modules and performed CRUD operations using Java-MySQL integration
+- Debugged and improved existing codebase, reducing errors and improving reliability
+
+---
+
+## 🗣️ Languages
+Hindi (Native) · English (Professional Proficiency)
+
+## 🎯 Interests
+Coding & Problem Solving · Cricket 🏏 · E-sports Gaming 🎮 · Music 🎵 · Traveling ✈️
 
 ## 🌐 Connect With Me
 
